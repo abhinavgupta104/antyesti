@@ -1,0 +1,329 @@
+[
+  {
+    "day": 1,
+    "name": "Antim Sanskar",
+    "nameDevanagari": "अंतिम संस्कार",
+    "nameHindi": "अंतिम संस्कार",
+    "phase": "Preparation & Departure",
+    "phaseNumber": 1,
+    "vedicReference": {
+      "scripture": "Garuda Purana — Pretakalpa, Chapter 1",
+      "shlok": "अग्निर्वै देवानामवमः",
+      "shlokTranslation": "Sacred fire is the bridge between the mortal and divine — it purifies and transmits."
+    },
+    "meaning": "The sacred fire is the lowest of the gods — symbolizing the purification of the physical body through Agni. Fire, in Hindu cosmology, is the divine mouth that carries offerings to the higher realms. The body is returned to the five elements: earth, water, fire, air, and ether.",
+    "whatHappens": "The body is bathed with Gangajal and warm water, anointed with sandalwood paste (chandan), and turmeric on specific body points. The body is dressed in white cloth (or community-specific colors: for example, red for married women in some traditions). Sacred Tulsi leaves are placed in the mouth. The pandit leads the family in final prayers — the Antim Vidhi. The body is placed on white sesame seeds on the bier. The procession (yatra) moves to the cremation ground chanting 'Ram Naam Satya Hai'. The eldest son (or designated heir) performs the circumambulation of the pyre three times — counter-clockwise, symbolizing the reversal of life. He lights the pyre at the mouth (capital) while the pandit chants Vedic mantras from the Garuda Purana. The pandit then performs Kapal Kriya — the ritual cracking of the skull — to release the soul.",
+    "keyMantras": [
+      "ॐ त्र्यम्बकं यजामहे — The Mahamrityunjaya Mantra for liberation",
+      "हरे राम हरे राम — for peace of the departing soul",
+      "ॐ नमः शिवाय — invoking Shiva as lord of cremation"
+    ],
+    "whyItMatters": "The cremation is not a funeral in the Western sense — it is a sacred act of liberation. Hindu philosophy holds that the physical body is merely the outermost sheath (sthula sharira) of the soul. Fire purifies and releases. The soul, having shed the body, begins its journey to the subtle realms. Proper Vedic procedure ensures this transition is smooth, aided by the chanting of specific frequencies (mantras) that resonate with the departing consciousness.",
+    "commonMistakes": "Using the wrong type of wood, performing rituals in the wrong sequence, or not having a qualified pandit who understands the specific community's tradition. The direction of the pyre, the number of circumambulations, and the exact mantras differ across communities.",
+    "duration": "4–6 hours",
+    "panditRequired": true,
+    "importance": "critical",
+    "tags": ["cremation", "fire", "day1", "mandatory"]
+  },
+  {
+    "day": 2,
+    "name": "Snan and Daan",
+    "nameDevanagari": "स्नान और दान",
+    "nameHindi": "स्नान और दान",
+    "phase": "Purification & Merit",
+    "phaseNumber": 1,
+    "vedicReference": {
+      "scripture": "Garuda Purana 2.10 — Danadhyaya",
+      "shlok": "आचमनं शौचं स्नानं च पुण्यदानम् च सर्वदा",
+      "shlokTranslation": "Purification through water, cleanliness, bathing, and charitable giving — always generates merit."
+    },
+    "meaning": "The second day focuses on ritual purification of the mourning family and the generation of punya (merit) through charitable acts on behalf of the departed soul. The departed soul, at this stage, is believed to be in a disoriented transitional state, and the family's prayers and donations provide it with sustenance and direction.",
+    "whatHappens": "All family members take a ritual bath at sunrise. In some communities, the bath includes sesame seeds (tila) in the water. The family visits the cremation site to ensure all rites were completed properly. Charitable donations (daan) are made: go-daan (cow donation), bhu-daan (land donation), vastra-daan (clothing donation), and anna-daan (food donation). A Brahmin or pandit is fed and given gifts in the name of the departed — it is believed the gifts reach the soul. The family observes simple food — no non-vegetarian food, no salt in some traditions, no eating outside the home.",
+    "keyMantras": [
+      "ॐ पितृभ्यः स्वधा नमः — honoring the departed ancestors",
+      "तत् सत् — affirmation of the eternal truth behind all actions"
+    ],
+    "whyItMatters": "Hindu philosophy holds that actions performed by the living directly benefit the departed. The concept of 'karmic transfer' through charitable acts is well-established across the Puranas. The Garuda Purana specifically lists 16 types of donations (shodasha mahadana) that are especially beneficial when made at the time of death.",
+    "commonMistakes": "Skipping daan entirely due to grief or logistical difficulty. The daan need not be elaborate — even small charitable acts count.",
+    "duration": "2–3 hours",
+    "panditRequired": true,
+    "importance": "high",
+    "tags": ["purification", "charity", "day2"]
+  },
+  {
+    "day": 3,
+    "name": "Teen Raat / Tritiya Pind",
+    "nameDevanagari": "तीन रात — तृतीया पिंड",
+    "nameHindi": "तीन रात",
+    "phase": "Asthi Collection",
+    "phaseNumber": 1,
+    "vedicReference": {
+      "scripture": "Garuda Purana Pretakalpa 2.14",
+      "shlok": "तृतीये दिवसे प्रेत पिंडं दद्यात् सतिलं जलम्",
+      "shlokTranslation": "On the third day, offer the preta-pinda along with sesame and water."
+    },
+    "meaning": "The third day is the day of Asthi Sanchayan — the collection of the bones and ashes. Vedic texts describe the soul on the third day as hovering near the cremation site, still reluctant to depart. The ritual pind offering and prayers help release the attachment.",
+    "whatHappens": "The family returns to the cremation site at dawn (before sunrise in strict tradition). The remaining bones and ashes (asthi) are carefully collected into a clay or copper vessel — this is called Asthi Sanchayan. The process is deeply ritualized: ashes are sprinkled with milk and water, the bones are handled with reverence. The vessel is sealed. Pind Daan (rice balls mixed with sesame, barley, and honey) is offered to the departed soul — the first formal pind of the mourning period. Water is offered with sesame seeds (jal tarpan). The name of the departed is invoked three times. The vessel of asthi is stored at home or in a temple until Asthi Visarjan can be performed (usually at a sacred river).",
+    "keyMantras": [
+      "ॐ यमाय नमः — honoring Yama, the lord of dharma after death",
+      "पितृ देवो भव — may the ancestors be honored as gods"
+    ],
+    "whyItMatters": "The Asthi (physical remains) are considered sacred — they are the last physical link to the departed. Their proper collection and eventual immersion in a sacred river (Ganga being most auspicious) is considered essential for the soul's liberation. Without Asthi Visarjan, some traditions hold the soul may remain restless.",
+    "commonMistakes": "Collecting asthi at the wrong time (must be third day, not second), using plastic containers, or delaying Asthi Sanchayan beyond the third day.",
+    "duration": "3–4 hours",
+    "panditRequired": true,
+    "importance": "critical",
+    "tags": ["asthi", "pind", "day3", "mandatory"]
+  },
+  {
+    "day": 4,
+    "name": "Chautha",
+    "nameDevanagari": "चौथा — सामाजिक शोक",
+    "nameHindi": "चौथा",
+    "phase": "Community Gathering",
+    "phaseNumber": 2,
+    "vedicReference": {
+      "scripture": "Antyesti Paddhati — Samaja Vidhi",
+      "shlok": "चतुर्थे दिवसे ग्रहस्थः समाजः शोकं सहेत",
+      "shlokTranslation": "On the fourth day, the householder gathers the community to bear the grief together."
+    },
+    "meaning": "The Chautha (meaning 'fourth') is the first major community gathering — the collective mourning assembly. Hindu tradition recognizes that grief is not a private burden but a shared one. The extended family, friends, neighbors, and community come together to support the bereaved and honor the departed.",
+    "whatHappens": "The home is prepared to receive mourners. Chairs and seating are arranged in a large open gathering. The pandit performs an opening prayer. Family members receive condolences in a structured way — the chief mourner (usually eldest son) sits with the pandit and receives guests. Kirtan or bhajan is sung — the music is specific to mourning: not festive, but deeply devotional, focused on Ram Nam. The pandit offers a brief discourse on the life of the departed and the Vedic philosophy of death. A communal meal may be offered at the end. In some traditions, the Chautha extends late into the night.",
+    "keyMantras": [
+      "राम नाम सत्य है — the ultimate affirmation, chanted at death",
+      "सर्वे भवन्तु सुखिनः — universal prayer for wellbeing"
+    ],
+    "whyItMatters": "The communal mourning of Chautha has deep psychological and social value. Grief held alone becomes complicated — shared grief transforms and heals. The kirtan and prayers at Chautha serve as a collective processing of loss, and the physical gathering signals to the community that support is needed and given.",
+    "commonMistakes": "Converting Chautha into a social event rather than a mourning ceremony. Excess food, music that is too festive, and loud conversation undermine the sacred intention.",
+    "duration": "Full day event",
+    "panditRequired": true,
+    "importance": "high",
+    "tags": ["community", "kirtan", "day4"]
+  },
+  {
+    "day": 5,
+    "name": "Panchami Shraddha",
+    "nameDevanagari": "पञ्चमी श्राद्ध",
+    "nameHindi": "पांचवां श्राद्ध",
+    "phase": "Daily Offerings",
+    "phaseNumber": 2,
+    "vedicReference": {
+      "scripture": "Vishnu Purana 3.13 — Shraddha Kalpa",
+      "shlok": "पञ्चमे दिवसे श्राद्धं कुर्यात् पितृतर्पणम्",
+      "shlokTranslation": "On the fifth day, one must perform Shraddha and offer tarpan to the departed."
+    },
+    "meaning": "The Shraddha is a sacred offering ceremony that 'satisfies' (from Sanskrit: shraddha = faith + dha = to carry) the departed soul with food, water, and prayers. The belief is that what is offered in Shraddha reaches the soul in its current form of existence.",
+    "whatHappens": "A small ceremony at home. The pandit arrives and establishes the ritual space (mandala). He invokes the departed along with three generations of ancestors. Pind Daan is offered: rice balls mixed with sesame seeds, black sesame (for the departed), honey, and barley. The pandit chants specific Shraddha mantras from the Vishnu Purana. A Brahmin (representing the departed) is fed a full meal. Gifts are given: cloth, dakshina (fee), food. The family observes dietary restrictions throughout the day.",
+    "keyMantras": [
+      "ॐ श्राद्धदेवाय विद्महे — invoking the lord of Shraddha ceremonies",
+      "पितृ तर्पयामि — I satisfy the ancestors"
+    ],
+    "whyItMatters": "The Shraddha ceremony is one of the Panchamahayajnas (five great sacrifices) that a householder is obligated to perform — Pitru Yajna (sacrifice to ancestors). The Mahabharata describes in detail how neglected ancestors can withhold their blessing from the family line. Regular Shraddha is thus both a spiritual and a social obligation.",
+    "commonMistakes": "Using white sesame instead of black sesame for the departed (black sesame is prescribed for the recently departed). Performing Shraddha during inauspicious times.",
+    "duration": "1–2 hours",
+    "panditRequired": true,
+    "importance": "medium",
+    "tags": ["shraddha", "pind", "day5"]
+  },
+  {
+    "day": 6,
+    "name": "Shashthi Jal Tarpan",
+    "nameDevanagari": "षष्ठी — जल तर्पण",
+    "nameHindi": "छठी विधि",
+    "phase": "Daily Offerings",
+    "phaseNumber": 2,
+    "vedicReference": {
+      "scripture": "Garuda Purana Pretakalpa — Tarpana Vidhi",
+      "shlok": "षष्ठे दिवसे जलं पिंडं तिलमिश्रं समर्पयेत्",
+      "shlokTranslation": "On the sixth day, offer water and pind mixed with sesame seeds."
+    },
+    "meaning": "On the sixth day, the soul is believed to have moved beyond the immediate earthly realm and entered the realm of the pitru (ancestors). Water offerings are especially important now — water is the currency of the subtle realms.",
+    "whatHappens": "Jal Tarpan is performed — the family member (usually the chief mourner) stands facing south (the direction of the ancestors), pours water through the right hand, allowing it to flow through the joined thumb and forefinger into a copper vessel below. The name, lineage (gotra), and titles of the departed are stated with each tarpan. Three rounds of tarpan are given. Black sesame seeds are added to the water. The Brahmin pandit assists in the mantra chanting. The family continues to observe mourning restrictions.",
+    "keyMantras": [
+      "अमुक गोत्रः अमुक शर्मा — stating the full lineage of the departed",
+      "ॐ तर्पयामि नमः — I offer this tarpan"
+    ],
+    "whyItMatters": "Jal Tarpan is one of the most ancient Vedic rites — predating even the elaborate Shraddha ceremonies. The Rigveda contains references to water offerings for the departed. The act of holding water in the palm and offering it south-ward is a powerful symbolic act of releasing attachment while providing for the soul.",
+    "commonMistakes": "Facing north (must face south). Using wrong side of hand (must flow through thumb-forefinger gap). Skipping the gotra and name recitation.",
+    "duration": "45–60 minutes",
+    "panditRequired": false,
+    "importance": "medium",
+    "tags": ["tarpan", "water", "day6"]
+  },
+  {
+    "day": 7,
+    "name": "Saptami Tarpan",
+    "nameDevanagari": "सप्तमी तर्पण",
+    "nameHindi": "सातवां तर्पण",
+    "phase": "Daily Offerings",
+    "phaseNumber": 2,
+    "vedicReference": {
+      "scripture": "Antyesti Paddhati — Saptaha Vidhi",
+      "shlok": "सप्तमे दिवसे तर्पणं दद्यात् पितृवर्गाय",
+      "shlokTranslation": "On the seventh day, offer tarpan to the entire lineage of departed ancestors."
+    },
+    "meaning": "The seventh-day Tarpan expands to honor not just the recently departed but the entire lineage of ancestors (pitru varga) — up to seven generations. The soul at this stage has completed its initial disorientation and is now definitively journeying in the ancestral realm.",
+    "whatHappens": "Tarpan is performed as on Day 6, but with specific additions: the pandit or family member recites the names and gotras of three generations of ancestors along with the recently departed. The offerings are expanded. In some traditions, the seventh day also includes a Bhagavad Gita reading — Chapter 2, the Sankhya Yoga chapter that speaks directly to the immortality of the soul and is traditionally recited in mourning contexts. Family members discuss memories of the departed — this informal sharing is considered part of the ritual.",
+    "keyMantras": [
+      "त्रयाणां पितृपितामह प्रपितामहानाम् — honoring three generations",
+      "ॐ पितृगणाय स्वाहा — offering to the entire ancestral lineage"
+    ],
+    "whyItMatters": "The expansion of tarpan to multiple generations on the seventh day is significant — it places the recently departed within the larger context of the family lineage. The departed is no longer mourned in isolation but welcomed into the ranks of the honored ancestors. This shift in perspective is healing for the family.",
+    "commonMistakes": "Limiting tarpan to only the recently departed and not including the three-generation lineage.",
+    "duration": "45–60 minutes",
+    "panditRequired": false,
+    "importance": "medium",
+    "tags": ["tarpan", "ancestors", "day7"]
+  },
+  {
+    "day": 8,
+    "name": "Ashtami Prayers",
+    "nameDevanagari": "अष्टमी पूजन",
+    "nameHindi": "आठवां दिन",
+    "phase": "Daily Offerings",
+    "phaseNumber": 2,
+    "vedicReference": {
+      "scripture": "Vishnu Purana — Pitru Stuti",
+      "shlok": "अष्टमे दिवसे पूजा विष्णोः पितृमोक्षार्थम्",
+      "shlokTranslation": "On the eighth day, worship Vishnu for the liberation of the departed ancestor."
+    },
+    "meaning": "The eighth day is strongly associated with Lord Vishnu — in his aspect as Pitru-Mokshadayaka (liberator of departed ancestors). The prayers shift from immediate sustenance offerings to long-term liberation prayers.",
+    "whatHappens": "Prayers are offered to the Pancha-Deva (five deities): Vishnu, Shiva, Shakti, Ganesha, and Surya — all are invoked for the departed soul's liberation. Tulsi leaves are offered to Vishnu (especially valuable for liberation). A lamp is lit at the home's prayer space and kept burning through the night. Some families read the Vishnu Sahasranama in full. The household continues the Sutaka restrictions: no auspicious ceremonies, no celebrations. The period of mourning is enforced through these daily rituals — they give structure in the otherwise formless time of grief.",
+    "keyMantras": [
+      "ॐ नमो भगवते वासुदेवाय — invocation of Vishnu",
+      "सहस्रशीर्षा पुरुषः — from the Purusha Sukta"
+    ],
+    "whyItMatters": "The Vishnu Puja on the eighth day serves a specific soteriological function — Vishnu is the preserver and liberator, and his worship accelerates the soul's journey past the realm of the pitru into higher liberation. The Garuda Purana — conveyed by Vishnu himself to Garuda — is the authoritative source for these recommendations.",
+    "commonMistakes": "Treating Day 8 as a 'light day' and skipping prayers because there is no big ceremony scheduled.",
+    "duration": "1 hour",
+    "panditRequired": false,
+    "importance": "medium",
+    "tags": ["vishnu", "prayers", "day8"]
+  },
+  {
+    "day": 9,
+    "name": "Navami Shraddha",
+    "nameDevanagari": "नवमी विधि",
+    "nameHindi": "नौवां दिन",
+    "phase": "Daily Offerings",
+    "phaseNumber": 2,
+    "vedicReference": {
+      "scripture": "Garuda Purana — Navami Karma",
+      "shlok": "नवमे दिवसे श्राद्धं मातृपक्षे विशेषतः",
+      "shlokTranslation": "On the ninth day, Shraddha is especially significant on the maternal side of the lineage."
+    },
+    "meaning": "The ninth day is traditionally associated with the maternal lineage of ancestors. The ritual expands to honor the mother's side of the family — her ancestors are also given tarpan. This reflects the Hindu view that devotion to both paternal and maternal ancestors is required for family wellbeing.",
+    "whatHappens": "Pind Daan and Jal Tarpan are offered. The formula for tarpan expands to include matru paksha (maternal side). The family prepares for the major tenth-day ceremony — Dashagatra. In some communities, the ninth day includes a visit to the home of the departed's maternal relatives to perform tarpan there as well. The asthi vessel is inspected and ritually honored.",
+    "keyMantras": [
+      "मातृभ्यः स्वधा — honoring the maternal ancestors",
+      "मातृ देवो भव — may the mother be honored as divine"
+    ],
+    "whyItMatters": "The inclusion of the maternal lineage in Shraddha ceremonies reflects the Vedic understanding that a person is shaped equally by both lineages, and both deserve honored remembrance. The maternal ancestors are believed to be closely watching the family's welfare.",
+    "commonMistakes": "Ignoring the maternal lineage entirely or treating Day 9 as merely a repetition of Day 7.",
+    "duration": "1–1.5 hours",
+    "panditRequired": false,
+    "importance": "medium",
+    "tags": ["maternal", "shraddha", "day9"]
+  },
+  {
+    "day": 10,
+    "name": "Dashagatra Shraddha",
+    "nameDevanagari": "दशगात्र श्राद्ध",
+    "nameHindi": "दसवाँ दिन",
+    "phase": "Major Milestone",
+    "phaseNumber": 3,
+    "vedicReference": {
+      "scripture": "Garuda Purana Pretakalpa 3.1 — Dashahahoma",
+      "shlok": "दशाहे श्राद्धकर्म त्रयोदशे सम्पूर्णता",
+      "shlokTranslation": "On the tenth day, the Shraddha karma is performed; on the thirteenth it is complete."
+    },
+    "meaning": "The tenth day is a major milestone — the Dashagatra ceremony formally builds a subtle body for the departed soul to carry it through the realms of the afterlife. According to Garuda Purana, the soul in the first nine days has no subtle body and drifts. On the tenth day, through the offering of ten pindas, a limb-by-limb construction of the preta shareera (subtle body) is completed.",
+    "whatHappens": "This is a major ceremony requiring a full day. The pandit performs the Dashagatra puja in full. Ten pindas are offered in specific sequence — each pinda represents the reconstruction of a bodily function: vision, hearing, speech, sensation, breath, and movement. The Sutaka period formally ends for most community members (though the chief mourner's Sutaka may extend to Day 12 or 13). Family members who were observing external Sutaka restrictions (not attending celebrations, etc.) may now begin to resume limited activity. Asthi Visarjan may be performed on this day at a sacred river if proximity permits. Family members take purifying baths.",
+    "keyMantras": [
+      "ॐ दशगात्राय नमः — invoking the rite of the ten-limb body",
+      "प्रेत देहाय स्वाहा — offering to the subtle body of the departed"
+    ],
+    "whyItMatters": "The Dashagatra is unique to Hindu mortuary practice — the systematic construction of a post-mortem subtle body for the soul through ritual offerings has no parallel in other traditions. The Garuda Purana dedicates an entire chapter to this ceremony, explaining in precise detail what each pinda accomplishes for the soul's welfare. Without the Dashagatra, the soul is believed to remain in a difficult state in the subtle realm.",
+    "commonMistakes": "Shortening the ceremony or using fewer than ten pindas. Each pinda must be offered in the correct sequence with the correct mantras. This is one of the most technically demanding ceremonies of the entire period.",
+    "duration": "5–6 hours",
+    "panditRequired": true,
+    "importance": "critical",
+    "tags": ["dashagatra", "pind", "day10", "mandatory"]
+  },
+  {
+    "day": 11,
+    "name": "Ekadashi Pinda",
+    "nameDevanagari": "एकादशी श्राद्ध",
+    "nameHindi": "ग्यारहवाँ दिन",
+    "phase": "Preparation for Integration",
+    "phaseNumber": 3,
+    "vedicReference": {
+      "scripture": "Antyesti Paddhati — Ekadashi Karma",
+      "shlok": "एकादशे दिवसे पार्वण पिंडं समर्पयेत्",
+      "shlokTranslation": "On the eleventh day, offer the Parvana pinda in preparation for the great integration."
+    },
+    "meaning": "The eleventh day is the period of intense preparation for the Sapindikarana — the greatest ceremony of the entire 13-day period. The departed soul is formally invited to cross the threshold from preta (wandering ghost) to pitru (honored ancestor). This day is the last in which the soul exists as an individual departed spirit.",
+    "whatHappens": "Pinda Daan is offered with specific mantras that ritually notify the soul about the upcoming Sapindikarana. The pandit recites the entire lineage of ancestors going back four generations, signaling to the departed where they will be integrated. The family conducts a full and elaborate Shraddha meal — a Brahmin representing the departed is fed in full, often with 16 food items symbolizing the 16 phases of the deceased's life journey. The house is cleaned and purified for the twelfth-day ceremony. Some families conduct a small havan.",
+    "keyMantras": [
+      "ॐ पितृभ्यः आगच्छत — calling the ancestors to witness",
+      "सपिण्डीकरणार्थं तुभ्यं — preparing for the joining of pindas"
+    ],
+    "whyItMatters": "The formality of notification on Day 11 is significant — Hindu ritual treats the soul as a fully conscious, aware entity that must be properly prepared and informed of what is about to happen. The anticipatory notification on Day 11 is considered essential for the success of the Sapindikarana on Day 12.",
+    "commonMistakes": "Treating Day 11 as unimportant because it lacks the drama of Day 12. The preparation on Day 11 directly determines the efficacy of the Sapindikarana.",
+    "duration": "2–3 hours",
+    "panditRequired": true,
+    "importance": "high",
+    "tags": ["ekadashi", "pind", "preparation", "day11"]
+  },
+  {
+    "day": 12,
+    "name": "Sapindikarana",
+    "nameDevanagari": "सपिण्डीकरण",
+    "nameHindi": "बारहवाँ दिन",
+    "phase": "Great Integration",
+    "phaseNumber": 3,
+    "vedicReference": {
+      "scripture": "Garuda Purana Pretakalpa 4.1 — Sapindana Vidhi",
+      "shlok": "द्वादशे सपिण्डीकरणं विधीयते पितृत्वम् आप्यते",
+      "shlokTranslation": "On the twelfth day, Sapindikarana is performed and the departed attains the status of a pitru (ancestor)."
+    },
+    "meaning": "The Sapindikarana is the most theologically significant ceremony of the entire 13-day period. It is the formal graduation of the soul — from preta (a freshly departed, potentially wandering spirit) to pitru (an honored ancestor who can receive Shraddha worship and provide blessings to the family). The word Sapindikarana means 'joining into the pind' — the merging of the departed's individual pinda with three pindas representing the three generations of established ancestors.",
+    "whatHappens": "This is a full-day ceremony of extraordinary complexity. The pandit performs it in a specific order: First, the preta-pinda (pind of the departed) is placed separately. Three pindas representing the paternal grandfather, great-grandfather, and great-great-grandfather are placed in a row. The preta-pinda is then ceremonially split into three portions — each portion is merged with one of the three ancestral pindas. This merging is the Sapindikarana — the soul is no longer a solitary, recently departed spirit; it is now integrated into the ancestral lineage. Water, sesame, kusha grass, and flowers are offered. The entire assembled family witnesses this ceremony. The pandit recites the family's entire gotravali (lineage list) going back as far as is known.",
+    "keyMantras": [
+      "सपिण्डो भवतु अस्मद् पितृभिः — may this soul become one with our ancestors",
+      "ॐ पितृत्वम् आप्नोति — it attains the state of an ancestor"
+    ],
+    "whyItMatters": "Without Sapindikarana, the soul theoretically remains in the liminal preta state — without formal entry into the realm of the pitru, it cannot receive the benefits of the Shraddha ceremonies performed in subsequent years. The Garuda Purana says plainly: 'A preta without Sapindikarana wanders.' This ceremony is the definitive act of care for the departed soul, and it requires a highly qualified pandit who knows the exact procedure.",
+    "commonMistakes": "Using an unqualified pandit who shortens or skips portions of the ceremony. The Sapindikarana has a precise sequence that cannot be abbreviated. Using the wrong gotras or wrong number of generations in the pinda formula.",
+    "duration": "6–8 hours",
+    "panditRequired": true,
+    "importance": "critical",
+    "tags": ["sapindikarana", "integration", "day12", "mandatory"]
+  },
+  {
+    "day": 13,
+    "name": "Terahvi — The Completion",
+    "nameDevanagari": "तेरहवीं — समापन संस्कार",
+    "nameHindi": "तेरहवाँ दिन",
+    "phase": "Completion & Return to Life",
+    "phaseNumber": 3,
+    "vedicReference": {
+      "scripture": "Garuda Purana / Antyesti Paddhati — Samapti Vidhi",
+      "shlok": "त्रयोदशे दिने सर्वम् परिपूर्णम् — मोक्षस्य मार्गः प्रशस्तः",
+      "shlokTranslation": "On the thirteenth day, all is complete — the path to liberation is made clear."
+    },
+    "meaning": "The Terahvi marks the formal end of the mourning period and the beginning of the family's return to the fullness of life — carrying the memory of the departed not as a burden of grief but as the gift of an honored ancestor. The departed soul is now fully integrated into the pitru realm, receiving the collective benefit of all the prayers and offerings of the 13 days.",
+    "whatHappens": "The Terahvi is a full-day community event. The pandit performs a Havan — the sacred fire ceremony — in the morning, invoking all the deities and the departed ancestor now in their status as pitru. The Havan specifically includes the Pitru Sukta mantras from the Rigveda. The final Shraddha meal is offered to Brahmins and the poor — this is the Bhandara, often the largest charitable meal of the period. Community members gather one last time. The pandit delivers a discourse on moving forward. The chief mourner formally 'releases' the mourning: puts on new or clean clothes, takes the purifying bath with sesame seeds. Hair may be shaved in the Vedic custom of Vapana. The Sutaka period ends for all family members. The family returns to the world — with fuller hearts, carrying the ancestor's memory as blessing.",
+    "keyMantras": [
+      "ॐ पितृ लोके सुखी भव — may you be at peace in the realm of ancestors",
+      "सर्वे भवन्तु सुखिनः — may all beings be happy",
+      "गते शोके च — and let the grief pass"
+    ],
+    "whyItMatters": "The formal end of mourning is as important as the mourning itself. Hindu tradition does not glorify extended grief — it provides a structure for grief, and then a structure for moving on. The Terahvi's communal gathering and the pandit's closing discourse serve as a psychological bridge between the chapter of loss and the chapter of continuation. The family can now speak of the departed not as 'the lost one' but as 'our ancestor who watches over us.'",
+    "commonMistakes": "Conducting the Terahvi as merely a social feast without the prayers and havan. The ceremony is not a function — it is a sacred completion.",
+    "duration": "Full day",
+    "panditRequired": true,
+    "importance": "critical",
+    "tags": ["terahvi", "completion", "havan", "day13", "mandatory"]
+  }
+]

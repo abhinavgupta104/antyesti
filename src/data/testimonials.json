@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Priya Ghosh",
+    "city": "Kolkata",
+    "service": "Complete 13-Day Rituals",
+    "review": "Pandit Debashish ji guided our family through the entire 13-day period after my father's passing with extraordinary patience. He conducted the Ekodishtha Shraddha exactly as per our Bengali tradition and explained each step in Bengali so our elderly relatives could follow. We were not just given a service — we were given a guide through our darkest days.",
+    "rating": 5,
+    "platform": "Google"
+  },
+  {
+    "id": 2,
+    "name": "Col. (Retd.) Hardeep Singh",
+    "city": "Delhi",
+    "service": "Antim Sanskar & Vaikuntha Package",
+    "review": "After my mother's sudden passing, I had no idea what steps to take. Antyesti reached our home within 28 minutes of my call. The pandit conducted the complete Sikh-compatible Arya Samaj ceremony with deep reverence. The Daswan ceremony was particularly moving. My family felt completely supported throughout the 13-day period.",
+    "rating": 5,
+    "platform": "Google"
+  },
+  {
+    "id": 3,
+    "name": "Shobha Venkataraman",
+    "city": "Bangalore",
+    "service": "Tamil Last Rites & Asthi Visarjan",
+    "review": "Our family went through a sudden loss and Pandit Krishnamurthy was the calm in our storm. He conducted the complete Tamil Brahmin Antyesti — Karmandhiga, Thvasaram, and the Thirteenth-day ceremony — all in perfect accordance with our Smarta tradition. The Asthi Visarjan at Rameswaram was organized with detailed care.",
+    "rating": 5,
+    "platform": "Personal"
+  },
+  {
+    "id": 4,
+    "name": "Rohan Mehta",
+    "city": "Mumbai",
+    "service": "Moksha Package",
+    "review": "We are NRI Gujarati, and my grandfather passed away while we were in the UK. Antyesti coordinated everything in Mumbai — the ceremony, the pandit, the Asthi Visarjan at Haridwar — while keeping us informed via live stream. Pandit Jigar conducted the full Vaishnav ceremony. Our family's grief was met with absolute professionalism and genuine compassion.",
+    "rating": 5,
+    "platform": "Google"
+  },
+  {
+    "id": 5,
+    "name": "Savitri Devi Tiwari",
+    "city": "Varanasi",
+    "service": "Kashi Pandit Service",
+    "review": "My husband and I had planned ahead with Antyesti's pre-planning service. When the time came, we activated the plan and everything was in order within hours. Pandit Arvind Kumar Mishra performed the Kashi Kriya with impeccable accuracy — the Sapindikarana on the twelfth day was the most spiritually profound ceremony I have witnessed.",
+    "rating": 5,
+    "platform": "Google"
+  },
+  {
+    "id": 6,
+    "name": "Arjun Deshmukh",
+    "city": "Pune",
+    "service": "Marathi Antim Sanskar",
+    "review": "Lost my father unexpectedly. Called Antyesti at 2 in the morning and they were there. Pandit Vishwanath Joshi conducted the full Marathi ceremony in our Chitpavan tradition — the special rituals we hadn't seen performed properly in years. He had the knowledge, and more importantly, the patience to guide our grieving family.",
+    "rating": 5,
+    "platform": "Google"
+  },
+  {
+    "id": 7,
+    "name": "Dr. Meenakshi Sundaram",
+    "city": "Chennai",
+    "service": "Telugu Last Rites — Moksha Package",
+    "review": "The care and precision with which Pandit Subramaniam conducted my mother-in-law's last rites was remarkable. The Apasthamba-tradition ceremony was performed exactly as my mother-in-law had wished — in full. The three-day rituals, the Asthi collection, and the subsequent Shraddha were handled without a single procedural error.",
+    "rating": 5,
+    "platform": "Personal"
+  },
+  {
+    "id": 8,
+    "name": "Sundar Lal Agarwal",
+    "city": "Delhi",
+    "service": "Complete Antim Sanskar",
+    "review": "My wife of 47 years left us in January. The dignity with which Antyesti handled every aspect — from the moment the pandit arrived to the Terahvi ceremony — was something I will always be grateful for. Every ritual was explained. Every prayer had meaning. I felt like I was doing right by her, and that peace is invaluable.",
+    "rating": 5,
+    "platform": "Google"
+  }
+]

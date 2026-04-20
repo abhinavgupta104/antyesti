@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "slug": "antim-sanskar",
+    "name": "Antim Sanskar (Complete Last Rites)",
+    "nameDevanagari": "अंतिम संस्कार",
+    "shortDesc": "A complete, Vedically-grounded last rites ceremony conducted by our senior pandits from the moment of passing through cremation.",
+    "fullDesc": "The Antim Sanskar is the final of the sixteen Samskaras prescribed in the Vedas. Our pandits conduct the complete ceremony — Antyeshti Kriya — with every ritual step explained clearly to the family. From the initial preparation of the body to the final agni to the ashes, every moment is handled with dignity and Vedic precision.",
+    "vedicReference": {
+      "shlok": "आत्मैवेदं सर्वम्",
+      "translation": "The Self alone is all of this — Chandogya Upanishad",
+      "scripture": "Chandogya Upanishad 7.25.2"
+    },
+    "duration": "4–6 hours",
+    "inclusions": ["Senior Vedic pandit", "Complete ritual materials", "Tulsi, Gangajal, and sacred items", "Agni ceremony", "Asthi collection guidance", "Post-cremation rites"],
+    "price": "On enquiry — customized per family"
+  },
+  {
+    "id": 2,
+    "slug": "cremation-services",
+    "name": "Cremation Services",
+    "nameDevanagari": "दाह संस्कार",
+    "shortDesc": "Dignified cremation arrangements including crematorium booking, logistics, and full Vedic Agni ritual coordination.",
+    "fullDesc": "We coordinate with crematoriums across all cities we serve, ensuring your loved one receives a dignified Agni Dah with proper Vedic rituals. Our team handles the paperwork, transport, crematorium booking, and pandit arrangement so your family can grieve without logistical burdens.",
+    "vedicReference": {
+      "shlok": "न जायते म्रियते वा कदाचित्",
+      "translation": "The soul is never born nor dies at any time — Bhagavad Gita 2.20",
+      "scripture": "Bhagavad Gita 2.20"
+    },
+    "duration": "2–4 hours at crematorium",
+    "inclusions": ["Crematorium booking", "Transport arrangement", "Pandit for Agni rites", "Sacred materials", "Asthi collection"],
+    "price": "Starting ₹8,000"
+  },
+  {
+    "id": 3,
+    "slug": "pandit-for-last-rites",
+    "name": "Pandit for Last Rites",
+    "nameDevanagari": "पंडित सेवा",
+    "shortDesc": "Qualified Vedic pandits trained at renowned institutions, available 24/7 for all Hindu death rituals across India.",
+    "fullDesc": "Our pandits hold formal Vedic education from institutions like Sampurnanand Sanskrit University, Varanasi and Kashi Vidwat Parishad. They are not mere ritual performers — they are scholars who understand the spiritual significance of each step and guide families through the entire process.",
+    "vedicReference": {
+      "shlok": "गुरुर्ब्रह्मा गुरुर्विष्णुः",
+      "translation": "The Guru is Brahma, the Guru is Vishnu — Guru Stotram",
+      "scripture": "Guru Stotram"
+    },
+    "duration": "As required",
+    "inclusions": ["Background-verified pandit", "Pre-ceremony family consultation", "Ritual explanation in your language", "Post-ceremony guidance"],
+    "price": "Starting ₹3,500 per ceremony"
+  },
+  {
+    "id": 4,
+    "slug": "dead-body-transportation",
+    "name": "Dead Body Transportation",
+    "nameDevanagari": "शव परिवहन",
+    "shortDesc": "Dignified, prompt transportation with trained staff — intracity, intercity, and pan-India with all necessary documentation.",
+    "fullDesc": "Time is sensitive in Antim Sanskar. Our trained transport teams ensure the body is transported with complete dignity and in the shortest time. We arrange all legal documentation, NOC certificates, and coordinate with airlines for NRI cases.",
+    "vedicReference": {
+      "shlok": "तस्मात् सर्वेषु कालेषु मामनुस्मर युध्य च",
+      "translation": "Therefore at all times, remember Me and fight — Bhagavad Gita 8.7",
+      "scripture": "Bhagavad Gita 8.7"
+    },
+    "duration": "Depends on distance",
+    "inclusions": ["Ambulance/hearse van", "Trained support staff", "All legal documentation", "NOC and permits", "Pan-India coordination"],
+    "price": "Starting ₹2,000 (intracity)"
+  },
+  {
+    "id": 5,
+    "slug": "hearse-van",
+    "name": "Hearse Van Services",
+    "nameDevanagari": "शव वाहन",
+    "shortDesc": "Dedicated hearse vans with dignified interiors, available 24/7 across all cities we serve.",
+    "fullDesc": "Our hearse vans are maintained to the highest standards of dignity and cleanliness. Available at all hours, they are staffed by trained personnel who understand the sensitivity of the situation.",
+    "vedicReference": {
+      "shlok": "अव्यक्तोऽयमचिन्त्योऽयम्",
+      "translation": "The soul is unmanifest and inconceivable — Bhagavad Gita 2.25",
+      "scripture": "Bhagavad Gita 2.25"
+    },
+    "duration": "As required",
+    "inclusions": ["AC hearse van", "Trained driver", "Flower decoration option", "24/7 availability"],
+    "price": "Starting ₹1,500"
+  },
+  {
+    "id": 6,
+    "slug": "freezer-box",
+    "name": "Freezer Box Services",
+    "nameDevanagari": "शीतल पेटी",
+    "shortDesc": "High-quality freezer boxes for body preservation, available for home placement until family members arrive.",
+    "fullDesc": "When family members need time to travel before the ceremony, our freezer boxes allow for dignified preservation at home or any location. We deliver, set up, and collect — handling everything with care.",
+    "vedicReference": {
+      "shlok": "देही नित्यमवध्योऽयं देहे सर्वस्य भारत",
+      "translation": "The soul dwelling in the body is eternal and indestructible — Bhagavad Gita 2.30",
+      "scripture": "Bhagavad Gita 2.30"
+    },
+    "duration": "Available for rental",
+    "inclusions": ["Freezer box delivery", "Setup at location", "Collection after use", "24/7 support"],
+    "price": "Starting ₹1,200/day"
+  },
+  {
+    "id": 7,
+    "slug": "asthi-visarjan",
+    "name": "Asthi Visarjan",
+    "nameDevanagari": "अस्थि विसर्जन",
+    "shortDesc": "Sacred immersion of mortal remains at holy rivers — Haridwar, Varanasi, Prayagraj, Gaya, Rameswaram — with local Vedic pandits.",
+    "fullDesc": "Asthi Visarjan is the sacred immersion of ashes at a holy tirtha. Our network of local pandits at all major sacred rivers ensures this final rite is performed as prescribed. We arrange travel, accommodation, and the complete ceremony.",
+    "vedicReference": {
+      "shlok": "गङ्गा गङ्गेति यो ब्रूयाद् योजनानां शतैरपि",
+      "translation": "One who remembers Ganga from hundreds of miles away is liberated from all sins — Skanda Purana",
+      "scripture": "Skanda Purana"
+    },
+    "duration": "1–2 days",
+    "inclusions": ["Travel coordination", "Local pandit in sacred city", "Boat and river ceremony", "Pind Daan option", "Accommodation guidance"],
+    "price": "Starting ₹5,000"
+  },
+  {
+    "id": 8,
+    "slug": "thirteen-day-rituals",
+    "name": "13-Day Rituals (Terahvi)",
+    "nameDevanagari": "तेरहवीं संस्कार",
+    "shortDesc": "Complete guidance and pandit support for all 13 days of prescribed mourning rituals — from Antim Sanskar to Terahvi.",
+    "fullDesc": "The 13-day period following death is prescribed in the Garuda Purana and Antyesti Paddhati. Each day has specific rituals that ease the soul's journey and help the family through structured grieving. Our pandits stay with you throughout this journey.",
+    "vedicReference": {
+      "shlok": "दशाहे श्राद्धकर्म च त्रयोदशे तिलांजलि",
+      "translation": "On the tenth day perform Shraddha, on the thirteenth day perform Tilanjali — Garuda Purana",
+      "scripture": "Garuda Purana Pretakalpa"
+    },
+    "duration": "13 days",
+    "inclusions": ["Daily pandit", "All ritual materials for 13 days", "Sapindikarana coordination", "Terahvi ceremony", "Family guidance daily"],
+    "price": "Starting ₹25,000 for full 13 days"
+  },
+  {
+    "id": 9,
+    "slug": "chautha-ceremony",
+    "name": "Chautha Ceremony",
+    "nameDevanagari": "चौथा संस्कार",
+    "shortDesc": "The fourth-day communal mourning ritual where family and community gather to offer condolences and prayers.",
+    "fullDesc": "Chautha is observed on the fourth day when the community gathers for the first major mourning ceremony. Our pandits guide the family through prayers, kirtan, and the appropriate community farewell rituals.",
+    "vedicReference": {
+      "shlok": "समानी व आकूतिः समाना हृदयानि वः",
+      "translation": "United be your purpose, united your hearts — Rigveda 10.191.4",
+      "scripture": "Rigveda 10.191.4"
+    },
+    "duration": "3–5 hours",
+    "inclusions": ["Pandit for ceremony", "Prayer and kirtan guidance", "Community ritual coordination"],
+    "price": "Starting ₹4,000"
+  },
+  {
+    "id": 10,
+    "slug": "shraddha-pind-daan",
+    "name": "Shraddha & Pind Daan",
+    "nameDevanagari": "श्राद्ध और पिंड दान",
+    "shortDesc": "Annual and monthly Shraddha rituals performed at home or sacred tirthas, including Pind Daan for ancestral liberation.",
+    "fullDesc": "Shraddha is the sacred practice of offering food and water to ancestors, prescribed in the Vedas as a debt every person owes their forebears. Pind Daan at Gaya, Varanasi, or Prayagraj is considered especially meritorious. Our pandits conduct these rituals with complete Vedic procedure.",
+    "vedicReference": {
+      "shlok": "पितॄणां च प्रिया पुत्राः",
+      "translation": "Sons are dear to ancestors — Mahabharata",
+      "scripture": "Mahabharata Anushasana Parva"
+    },
+    "duration": "2–4 hours",
+    "inclusions": ["Qualified pandit", "Pind Daan materials", "Til, barley, sesame offerings", "Ancestral prayers", "Post-ritual guidance"],
+    "price": "Starting ₹3,000"
+  },
+  {
+    "id": 11,
+    "slug": "pre-planning",
+    "name": "Pre-Planning Service",
+    "nameDevanagari": "पूर्व नियोजन",
+    "shortDesc": "Document your wishes in advance — rituals, pandit preference, ceremony details — so your family is protected in their most difficult moment.",
+    "fullDesc": "Pre-planning your last rites is an act of deep love for your family. By documenting your preferences — which rituals, which pandit, which package — you remove the burden of decision-making from your grieving loved ones. We maintain secure records accessible immediately when needed.",
+    "vedicReference": {
+      "shlok": "यद्गच्छसि तद्गच्छामि यत्र गच्छसि तत्र अहम्",
+      "translation": "Where you go, I will go; wherever you go, I am there — Vedic wisdom",
+      "scripture": "Vedic Philosophy"
+    },
+    "duration": "1 consultation + ongoing",
+    "inclusions": ["Detailed wish documentation", "Pandit pre-selection", "Package locking", "Family notification system", "Secure storage"],
+    "price": "Starting ₹500 documentation fee"
+  },
+  {
+    "id": 12,
+    "slug": "grief-counselling",
+    "name": "Grief Counselling Support",
+    "nameDevanagari": "शोक सहायता",
+    "shortDesc": "Connections to certified grief counsellors who understand the Hindu perspective on loss, mourning, and the soul's journey.",
+    "fullDesc": "Grief in the Hindu tradition has a specific spiritual context. Our network of counsellors understand the Vedic view of death and can help families navigate both the practical and spiritual dimensions of loss. Sessions available in multiple languages.",
+    "vedicReference": {
+      "shlok": "शोचन् मृतं किं करिष्यसि",
+      "translation": "What will you gain by grieving for one who has departed? — Mahabharata",
+      "scripture": "Mahabharata Shanti Parva"
+    },
+    "duration": "Ongoing sessions available",
+    "inclusions": ["Individual counselling sessions", "Family group sessions", "Hindu philosophy of death guidance", "Grief journaling resources"],
+    "price": "Starting ₹800 per session"
+  }
+]

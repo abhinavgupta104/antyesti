@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Mukti",
+    "nameDevanagari": "मुक्ति",
+    "sanskritMeaning": "Liberation from the cycle of birth and death",
+    "price": "₹12,000",
+    "recommended": false,
+    "tag": "Essential Care",
+    "inclusions": [
+      "One senior Vedic pandit (full ceremony)",
+      "Complete Antim Sanskar ritual",
+      "Crematorium booking and coordination",
+      "Hearse van (intracity)",
+      "All essential ritual materials",
+      "Asthi collection post-cremation",
+      "24/7 family support before and during"
+    ],
+    "notIncluded": ["13-day rituals", "Asthi Visarjan coordination", "Grief counselling"]
+  },
+  {
+    "id": 2,
+    "name": "Moksha",
+    "nameDevanagari": "मोक्ष",
+    "sanskritMeaning": "Complete spiritual liberation, the highest state",
+    "price": "₹28,000",
+    "recommended": true,
+    "tag": "Most Chosen",
+    "inclusions": [
+      "Everything in Mukti",
+      "Pandit for first 3 days of rituals",
+      "Chautha ceremony arrangement",
+      "Asthi Visarjan coordination (Haridwar/Varanasi)",
+      "Travel and accommodation guidance for Visarjan",
+      "Documentation of all ceremonies",
+      "Community kirtan coordination"
+    ],
+    "notIncluded": ["Full 13-day pandit", "Grief counselling sessions"]
+  },
+  {
+    "id": 3,
+    "name": "Vaikuntha",
+    "nameDevanagari": "वैकुण्ठ",
+    "sanskritMeaning": "The eternal abode of Vishnu — the highest spiritual destination",
+    "price": "₹65,000",
+    "recommended": false,
+    "tag": "Complete Care",
+    "inclusions": [
+      "Everything in Moksha",
+      "Two dedicated pandits throughout 13 days",
+      "Complete daily rituals for all 13 days",
+      "Terahvi ceremony coordination",
+      "Sapindikarana rite",
+      "Live streaming for NRI families",
+      "3 grief counselling sessions",
+      "Legal documentation support",
+      "Memorial photography (dignified)",
+      "Dedicated family liaison for 13 days"
+    ],
+    "notIncluded": []
+  }
+]

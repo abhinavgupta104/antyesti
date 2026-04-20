@@ -1,0 +1,74 @@
+[
+  {
+    "community": "Bengali",
+    "language": "Bengali",
+    "uniqueRituals": ["Ekodishtha Shraddha", "Shat Paka", "Bijoya Dasami observance", "Tarpan at river"],
+    "customizationNote": "Bengali Hindu funeral traditions are deeply tied to the Sakta and Vaishnav traditions. The ceremonies are conducted in Bengali and Sanskrit.",
+    "keyDifferences": [
+      "White cloth (preferably handloom) is used instead of silk",
+      "Special fish offering (Maatsya Tarpan) in some communities",
+      "Specific Bengali mantras recited alongside Sanskrit",
+      "The Ekodishtha Shraddha on the 11th day is particularly significant"
+    ]
+  },
+  {
+    "community": "Punjabi",
+    "language": "Punjabi",
+    "uniqueRituals": ["Antim Ardas", "Kirtan during mourning", "Dastar ceremony for men", "Sahaj Path"],
+    "customizationNote": "Punjabi Hindu and Sikh families have blended traditions. We accommodate Arya Samaj, Sanatan Dharm, and Sikh-influenced Hindu ceremonies.",
+    "keyDifferences": [
+      "Kirtan (devotional singing) is central throughout the mourning period",
+      "Akhand Path (continuous Gurbani recitation) may be included",
+      "The 13th day ceremony (Terahvi) is the largest gathering",
+      "Langar (community meal) is integral to Punjabi mourning"
+    ]
+  },
+  {
+    "community": "Tamil",
+    "language": "Tamil",
+    "uniqueRituals": ["Karmandhiga", "Ekodhishtha Antyeshti", "Thvasaram", "Nandhi Shraddham"],
+    "customizationNote": "Tamil Brahmin ceremonies follow the Apasthamba or Bodhayana sutra traditions. Ceremonies are conducted in Tamil and Sanskrit.",
+    "keyDifferences": [
+      "Apasthamba Sutra governs the ritual procedure for most Tamil Brahmins",
+      "The shroud is typically white with specific Brahminical markings",
+      "Karmandhiga on the 16th day replaces the 13-day timeline for some families",
+      "The Ekodhishtha Shraddha is conducted with particular precision on the 12th day"
+    ]
+  },
+  {
+    "community": "Telugu",
+    "language": "Telugu",
+    "uniqueRituals": ["Vaikunta Samaradhana", "Masika Shraddha", "Abhishekam for photos", "Sapindikarana"],
+    "customizationNote": "Telugu families follow either Apasthamba or Kaushika sutras. South Indian traditions differ significantly from North Indian ones in cremation procedure.",
+    "keyDifferences": [
+      "Vaikunta Samaradhana on the 11th or 13th day is a large community gathering",
+      "Sacred thread is changed during the ceremony",
+      "Specific Telugu mantras recited alongside Sanskrit",
+      "Masika Shraddha (monthly observances) for one full year is followed"
+    ]
+  },
+  {
+    "community": "Marathi",
+    "language": "Marathi",
+    "uniqueRituals": ["Nagbali Narayan Nagbali", "Tripindi Shraddha", "Mahalaya Paksha", "Ghat Sthapana"],
+    "customizationNote": "Maharashtrian traditions vary by community — Chitpavan Brahmin, Saraswat Brahmin, and Maratha communities have distinct customs.",
+    "keyDifferences": [
+      "Conch shell (Shankh) is blown differently in Maharashtra at specific moments",
+      "The Nagbali Narayan Nagbali is a unique Maharashtrian ritual for unnatural deaths",
+      "Ambabai is invoked with specific regional prayers",
+      "The 13th day Terahvi may be conducted as a community bhojan (feast) at the family's home"
+    ]
+  },
+  {
+    "community": "Gujarati",
+    "language": "Gujarati",
+    "uniqueRituals": ["Uttarkriya", "Dwadasa Ahnika", "Vaikuntha Chaturdashi", "Ras-paan"],
+    "customizationNote": "Gujarati Hindu traditions are primarily Vaishnav, though Shaiva communities have different customs. Ceremonies are conducted in Gujarati and Sanskrit.",
+    "keyDifferences": [
+      "Vaishnav families observe simplified rituals according to Pushti Marg",
+      "Specific white flower (jasmine) is used in the ceremony",
+      "Dwadasa Ahnika (12-day) ceremony is common among Gujarati Brahmin families",
+      "The Uttarkriya ceremony includes unique Gujarati elements on the 13th day"
+    ]
+  }
+]

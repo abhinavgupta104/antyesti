@@ -1,0 +1,17 @@
+[
+  { "id": 1, "name": "Delhi", "state": "NCR", "pandits": 45, "services": 12, "crematoriums": ["Nigambodh Ghat", "Lodhi Road Crematorium", "Punjabi Bagh Crematorium"], "available": true },
+  { "id": 2, "name": "Mumbai", "state": "Maharashtra", "pandits": 32, "services": 12, "crematoriums": ["Chandanwadi", "Shivaji Park Crematorium", "Vile Parle"], "available": true },
+  { "id": 3, "name": "Bangalore", "state": "Karnataka", "pandits": 28, "services": 11, "crematoriums": ["Hebbal Crematorium", "Sumanahalli Electric Crematorium"], "available": true },
+  { "id": 4, "name": "Kolkata", "state": "West Bengal", "pandits": 22, "services": 10, "crematoriums": ["Nimtala Ghat", "Keoratala Ghat", "Dhapdhapi"], "available": true },
+  { "id": 5, "name": "Chennai", "state": "Tamil Nadu", "pandits": 20, "services": 11, "crematoriums": ["Besant Nagar Crematorium", "Egmore", "Villivakkam"], "available": true },
+  { "id": 6, "name": "Hyderabad", "state": "Telangana", "pandits": 18, "services": 10, "crematoriums": ["Mahindra Hills", "Secunderabad Electric Crematorium"], "available": true },
+  { "id": 7, "name": "Pune", "state": "Maharashtra", "pandits": 14, "services": 10, "crematoriums": ["Vaikuntha Smashanbhumi", "Khadki Crematorium"], "available": true },
+  { "id": 8, "name": "Ahmedabad", "state": "Gujarat", "pandits": 12, "services": 9, "crematoriums": ["Muktidham Crematorium", "Vasna Crematorium"], "available": true },
+  { "id": 9, "name": "Lucknow", "state": "Uttar Pradesh", "pandits": 16, "services": 10, "crematoriums": ["Bhaisakund Ghat", "Gulala Ghat"], "available": true },
+  { "id": 10, "name": "Varanasi", "state": "Uttar Pradesh", "pandits": 38, "services": 12, "crematoriums": ["Manikarnika Ghat", "Harishchandra Ghat"], "available": true },
+  { "id": 11, "name": "Jaipur", "state": "Rajasthan", "pandits": 10, "services": 9, "crematoriums": ["Ramganj Crematorium", "Brahmpuri Electric Crematorium"], "available": true },
+  { "id": 12, "name": "Bhopal", "state": "Madhya Pradesh", "pandits": 8, "services": 8, "crematoriums": ["Bhadbhada Vishram Ghat"], "available": true },
+  { "id": 13, "name": "Chandigarh", "state": "Punjab/Haryana", "pandits": 10, "services": 9, "crematoriums": ["Sector 25 Crematorium"], "available": true },
+  { "id": 14, "name": "Surat", "state": "Gujarat", "pandits": 9, "services": 8, "crematoriums": ["Katargam Crematorium"], "available": true },
+  { "id": 15, "name": "Nagpur", "state": "Maharashtra", "pandits": 8, "services": 8, "crematoriums": ["Ambazari Crematorium"], "available": true }
+]
