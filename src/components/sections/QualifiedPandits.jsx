@@ -10,7 +10,9 @@ export default function QualifiedPandits() {
   const featured = pandits.slice(0, 4)
 
   return (
-    <section style={{ background: 'var(--bg-cream)' }}>
+    <section style={{ background: 'linear-gradient(180deg, var(--bg-gold-tint) 0%, var(--bg-cream) 100%)', position: 'relative', overflow: 'hidden' }}>
+      {/* Subtle corner decoration */}
+      <div aria-hidden="true" style={{ position: 'absolute', top: '-80px', left: '-80px', width: '300px', height: '300px', borderRadius: '50%', background: 'radial-gradient(circle, rgba(196,152,74,0.06) 0%, transparent 70%)', pointerEvents: 'none' }} />
       <div className="container-main">
         <div style={{ maxWidth: '600px', marginBottom: '3rem' }}>
           <SectionLabel>Our Pandits</SectionLabel>

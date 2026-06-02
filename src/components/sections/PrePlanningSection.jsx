@@ -10,7 +10,9 @@ const benefits = [
 
 export default function PrePlanningSection() {
   return (
-    <section style={{ background: 'var(--bg-dark)', padding: '5rem 0' }}>
+    <section style={{ background: 'linear-gradient(135deg, #0A1A12 0%, var(--forest) 50%, #0D1F17 100%)', padding: '6rem 0', position: 'relative', overflow: 'hidden' }}>
+      {/* Gold orb decoration */}
+      <div aria-hidden="true" style={{ position: 'absolute', bottom: '-100px', right: '-100px', width: '400px', height: '400px', borderRadius: '50%', background: 'radial-gradient(circle, rgba(196,152,74,0.08) 0%, transparent 70%)', pointerEvents: 'none' }} />
       <div className="container-main">
         <div
           style={{

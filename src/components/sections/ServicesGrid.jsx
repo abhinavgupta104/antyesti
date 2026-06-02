@@ -10,10 +10,12 @@ export default function ServicesGrid() {
   const featured = services.slice(0, 6)
 
   return (
-    <section style={{ background: 'var(--bg-page)' }}>
+    <section style={{ background: 'linear-gradient(180deg, var(--bg-page) 0%, var(--bg-section-alt) 100%)', position: 'relative', overflow: 'hidden' }}>
+      {/* Background accent */}
+      <div aria-hidden="true" style={{ position: 'absolute', top: '-120px', right: '-120px', width: '450px', height: '450px', borderRadius: '50%', background: 'radial-gradient(circle, rgba(26,58,42,0.04) 0%, transparent 70%)', pointerEvents: 'none' }} />
       <div className="container-main">
         <div style={{ textAlign: 'center', maxWidth: '600px', margin: '0 auto 3.5rem' }}>
-          <SectionLabel>Our Services</SectionLabel>
+          <SectionLabel center>Our Services</SectionLabel>
           <h2 className="section-h2" style={{ marginBottom: '1rem' }}>
             Complete Antim Sanskar Services
           </h2>

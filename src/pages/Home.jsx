@@ -3,6 +3,7 @@ import HeroSection from '../components/sections/HeroSection'
 import TrustStrip from '../components/sections/TrustStrip'
 import ServicesGrid from '../components/sections/ServicesGrid'
 import VedicDifferenceBanner from '../components/sections/VedicDifferenceBanner'
+import DivineSection from '../components/sections/DivineSection'
 import HowItWorks from '../components/sections/HowItWorks'
 import QualifiedPandits from '../components/sections/QualifiedPandits'
 import ThirteenDayGuide from '../components/sections/ThirteenDayGuide'
@@ -24,6 +25,7 @@ export default function Home() {
       <ServicesGrid />
       <DivaDivider />
       <VedicDifferenceBanner />
+      <DivineSection />
       <HowItWorks />
       <QualifiedPandits />
       <ThirteenDayGuide />
